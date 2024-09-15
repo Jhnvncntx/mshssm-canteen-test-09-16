@@ -1,3 +1,7 @@
+localStorage.setItem('staff1', '123456789')
+localStorage.setItem('staff2', '987654321')
+
+
 //isLoggedIn
 const loggedIn = sessionStorage.getItem('loggedIn')
 const staff1 = localStorage.getItem('staff1')
